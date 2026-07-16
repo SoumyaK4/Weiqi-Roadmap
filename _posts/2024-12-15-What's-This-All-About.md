@@ -63,7 +63,6 @@ You can check this [dedicated post](/posts/Benefits-of-Go) explaining why you sh
 <summary>Some more stuff you can check on the benefits</summary>
 <div markdown="1">
 - Check out the<a href='https://weiqi-to-go.net/benefits-of-weiqi/' target='_blank' rel="nofollow noopener noreferrer"> Benefits of Weiqi </a>
-- Explore<a href='https://gameofgo.app/learn/5-reasons-why-playing-game-of-go' target='_blank' rel="nofollow noopener noreferrer"> 5 Reasons to Play Go </a> at GameOfGo.app
 - Read<a href="https://gopsychology.uk/" target="_blank" rel="nofollow noopener noreferrer"> GoPsychology</a>
 - <a href="https://youtu.be/SrqAlN8JZPs?si=fvFSKQKmz1aVzajh" target="_blank">A wonderful video</a> by Here We GO.
 </div>

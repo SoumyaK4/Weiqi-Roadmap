@@ -8,32 +8,61 @@ date: 2026-01-10 00:00:00 +0530
 
 [[Go Back to Resources Page]](/posts/weiqi-resources/#where-to-play-see-more)
 
-1. <a href="https://online-go.com/" target="_blank" rel="nofollow noopener noreferrer">OGS</a> - Best place to play online.
-2. <a href="https://puyogo.app/en/" target="_blank" rel="nofollow noopener noreferrer">Squishy Go</a> - Cute place to play go against bots.
-3. <a href="https://www.foxwq.com/" target="_blank" rel="nofollow noopener noreferrer">Fox Weiqi</a> - has partly translated english client for windows, Android app fully in Chinese.
-4. MiniFox - <a href="https://walruswq.com/minifox" target="_blank" rel="nofollow noopener noreferrer">3rd Party Mac/Windows/Linux</a> clients for Fox.
-5. WeiqiHub - <a href="https://walruswq.com/WeiqiHub" target="_blank" rel="nofollow noopener noreferrer">3rd Party Mac/Windows/Linux & iOS/Android</a> clients for Fox & Tygem.
-6. Pandanet/IGS(The first Online Go Server) - <a href="https://pandanet-igs.com/communities/pandanet" target="_blank" rel="nofollow noopener noreferrer">Windows/Mac/Linux/Android</a>
-7. Tygem - <a href="https://www.tygemgo.com/" target="_blank" rel="nofollow noopener noreferrer">Windows, Android & iOS</a>.
-8. YikeWQ - <a href="https://yikewq.web.app/" target="_blank" rel="nofollow noopener noreferrer">English</a> & <a href="https://home.yikeweiqi.com/" target="_blank" rel="nofollow noopener noreferrer">Chinese</a>.
-9. <a href="https://questgames.net/go13" target="_blank" rel="nofollow noopener noreferrer">Goquest Web</a>, <a href="https://play.google.com/store/apps/details?id=fm.wars.goquest&hl=en" target="_blank" rel="nofollow noopener noreferrer">Android</a> & <a href="https://apps.apple.com/us/app/goquest/id834841918?ls=1" target="_blank" rel="nofollow noopener noreferrer">iOS</a>
-10. <a href="https://play.google.com/store/apps/details?id=com.mastergames.bestgoglobal&hl=en_IN" target="_blank" rel="nofollow noopener noreferrer">The World GO</a> - Android.
-11. Baduk Pop - <a href="https://badukpop.com" target="_blank" rel="nofollow noopener noreferrer">Web, Android & iOS.</a>
-12. <a href="https://baduk.netmarble.net/" target="_blank" rel="nofollow noopener noreferrer">Netmarble Baduk</a>
-13. <a href="https://torigo.io/" target="_blank" rel="nofollow noopener noreferrer">Torigo</a> - Borderless Go
-14. <a href="https://quantumgo.net/" target="_blank" rel="nofollow noopener noreferrer">QuantumGo</a> - Go but Quantum!!!!
-15. <a href="https://govariants.com" target="_blank" rel="nofollow noopener noreferrer">Go Variant Server</a> - Play different variations of the game.
-16. <a href="https://explorebaduk.com/" target="_blank" rel="nofollow noopener noreferrer">Explorebaduk</a> - An European up and coming go server with a lot of promising features.
-17. <a href="https://go.kahv.io/" target="_blank" rel="nofollow noopener noreferrer">Go Variant Server</a>(Doesn't Support Mobile Currently)
-18. <a href="https://www.wallbad.uk/" target="_blank" rel="nofollow noopener noreferrer">Wall Go</a> - Variant
-19. <a href="https://schaoss.github.io/wall-go/" target="_blank" rel="nofollow noopener noreferrer">Another Wall Go</a>
-20. <a href="https://dipgo.net/about" target="_blank" rel="nofollow noopener noreferrer">Diplomatic GO</a> - Variant
-21. <a href="https://baduk.club/map/" target="_blank" rel="nofollow noopener noreferrer">Baduk.Club</a> - Find Players/Places for offline games.
-22. <a href="https://jdespland.itch.io/weiqi-dungeon" target="_blank" rel="nofollow noopener noreferrer">Weiqi Dungeon</a>
-23. <a href="https://www.goblocks.online/" target="_blank" rel="nofollow noopener noreferrer">Go Tetris</a>
-24. <a href="https://okonomichiyaki.github.io/josekle/" target="_blank" rel="nofollow noopener noreferrer">Josekle</a> : Guess Joseki of the Day
-25. <a href="https://playgogame.org/" target="_blank" rel="nofollow noopener noreferrer">Play against Cosumi</a> : 7x7 - 19x19, 30k - 3d
-26. <a href="https://maksimkorzh.github.io/cmkgo/" target="_blank" rel="nofollow noopener noreferrer">CMKGo</a>
-27. <a href="https://libaduk.com/" target="_blank" rel="nofollow noopener noreferrer">Lichess like Go Server</a>
-28. <a href="https://tactile-go.com/" target="_blank" rel="nofollow noopener noreferrer">Tactile Go Server</a>
-29. <a href="http://toyo-igo.com/" target="_blank" rel="nofollow noopener noreferrer">Tygem Go Server</a> : On Web
+## Go servers and matchmaking
+
+- <a href="https://online-go.com/" target="_blank" rel="nofollow noopener noreferrer">OGS</a> — best place to play online.
+- <a href="https://www.foxwq.com/" target="_blank" rel="nofollow noopener noreferrer">Fox Weiqi</a> — partly translated Windows client; Android app is in Chinese.
+- MiniFox — <a href="https://walruswq.com/minifox" target="_blank" rel="nofollow noopener noreferrer">third-party clients for macOS, Windows, and Linux</a> for Fox.
+- WeiqiHub — <a href="https://walruswq.com/WeiqiHub" target="_blank" rel="nofollow noopener noreferrer">third-party clients for macOS, Windows, Linux, iOS, and Android</a> for Fox and Tygem.
+- Pandanet/IGS — <a href="https://pandanet-igs.com/communities/pandanet" target="_blank" rel="nofollow noopener noreferrer">Windows, macOS, Linux, and Android</a>; the original online Go server.
+- Tygem — <a href="https://tygembaduk.com/" target="_blank" rel="nofollow noopener noreferrer">TygemBaduk</a>.
+- YikeWQ — <a href="https://yikewq.web.app/" target="_blank" rel="nofollow noopener noreferrer">English</a> and <a href="https://home.yikeweiqi.com/" target="_blank" rel="nofollow noopener noreferrer">Chinese</a>.
+- <a href="https://questgames.net/go13" target="_blank" rel="nofollow noopener noreferrer">GoQuest</a> — <a href="https://play.google.com/store/apps/details?id=fm.wars.goquest&hl=en" target="_blank" rel="nofollow noopener noreferrer">Android</a> and <a href="https://apps.apple.com/us/app/goquest/id834841918?ls=1" target="_blank" rel="nofollow noopener noreferrer">iOS</a>.
+- <a href="https://play.google.com/store/apps/details?id=com.mastergames.bestgoglobal&hl=en_IN" target="_blank" rel="nofollow noopener noreferrer">The World GO</a> — Android.
+- Baduk Pop — <a href="https://badukpop.com" target="_blank" rel="nofollow noopener noreferrer">web, Android, and iOS</a>.
+- <a href="https://baduk.netmarble.net/" target="_blank" rel="nofollow noopener noreferrer">Netmarble Baduk</a>.
+- <a href="https://explorebaduk.com/" target="_blank" rel="nofollow noopener noreferrer">ExploreBaduk</a> — an up-and-coming European Go server.
+- <a href="https://libaduk.com/" target="_blank" rel="nofollow noopener noreferrer">Libaduk</a> — a Lichess-like Go server.
+- <a href="https://tactile-go.com/" target="_blank" rel="nofollow noopener noreferrer">Tactile Go</a> — a Go server designed for tactile play.
+- <a href="http://toyo-igo.com/" target="_blank" rel="nofollow noopener noreferrer">Toyo Igo</a> — Tygem on the web.
+- <a href="https://github.com/SoumyaK4/WeiqiHub/releases/" target="_blank" rel="nofollow noopener noreferrer">SWHub</a> — Simple online server for regular and variant Go.
+
+## Play against bots and casual games
+
+- <a href="https://puyogo.app/en/" target="_blank" rel="nofollow noopener noreferrer">Squishy Go</a> — a beginner-friendly place to play bots.
+- <a href="https://playgogame.org/" target="_blank" rel="nofollow noopener noreferrer">Cosumi</a> — play bots from 7×7 to 19×19, roughly 30 kyu to 3 dan.
+- <a href="https://maksimkorzh.github.io/cmkgo/" target="_blank" rel="nofollow noopener noreferrer">CMKGo</a>.
+- <a href="https://jdespland.itch.io/weiqi-dungeon" target="_blank" rel="nofollow noopener noreferrer">Weiqi Dungeon</a>.
+- <a href="https://www.goblocks.online/" target="_blank" rel="nofollow noopener noreferrer">Go Tetris</a>.
+- <a href="https://okonomichiyaki.github.io/josekle/" target="_blank" rel="nofollow noopener noreferrer">Josekle</a> — a daily joseki-guessing game.
+- <a href="https://omoyo.app/" target="_blank" rel="nofollow noopener noreferrer">Omoyo</a> — play against AI personalities with real-time KataGo analysis.
+- <a href="https://playuchigo.com/" target="_blank" rel="nofollow noopener noreferrer">UchiGo</a> — online play with AI analysis, puzzles, and lessons.
+- <a href="https://weiqi-gray.vercel.app/" target="_blank" rel="nofollow noopener noreferrer">Weiqi Gray</a> — a playable 3D Go board.
+
+## Variants and experimental servers
+
+- <a href="https://torigo.io/" target="_blank" rel="nofollow noopener noreferrer">Torigo</a> — borderless Go.
+- <a href="https://quantumgo.net/" target="_blank" rel="nofollow noopener noreferrer">QuantumGo</a>.
+- <a href="https://govariants.com" target="_blank" rel="nofollow noopener noreferrer">Go Variant Server</a> — play rule and board variations.
+- <a href="https://variant.baduk.club/" target="_blank" rel="nofollow noopener noreferrer">Variant Baduk Club</a>.
+- <a href="https://www.wallbad.uk/" target="_blank" rel="nofollow noopener noreferrer">Wall Go</a> and <a href="https://schaoss.github.io/wall-go/" target="_blank" rel="nofollow noopener noreferrer">another Wall Go</a>.
+- <a href="https://dipgo.net/about" target="_blank" rel="nofollow noopener noreferrer">Diplomatic Go</a>.
+- <a href="https://holz231.github.io/go-unlimited/" target="_blank" rel="nofollow noopener noreferrer">Toroidal Go</a>.
+- <a href="https://tasuki.github.io/archive/archive/continugo.tasuki.org/index.html" target="_blank" rel="nofollow noopener noreferrer">ContinuGo</a> — Go without the usual grid of intersections.
+- <a href="https://github.com/SoumyaK4/WeiqiHub/releases/" target="_blank" rel="nofollow noopener noreferrer">SWHub</a> — also supports Go variants.
+- <a href="https://voronoigo.com/" target="_blank" rel="nofollow noopener noreferrer">Voronoi Go</a>
+- <a href="https://bluemove.cc/#/about" target="_blank" rel="nofollow noopener noreferrer">Blue Move</a>.
+
+## Find in-person games
+
+- <a href="https://baduk.club/map/" target="_blank" rel="nofollow noopener noreferrer">Baduk.Club map</a> — find nearby players and places to play.
+
+## Additional servers and boards
+
+- <a href="https://3go.online/" target="_blank" rel="nofollow noopener noreferrer">Goban Sandbox</a> — 3D Go.
+- <a href="https://fluid-weiqi-web.vercel.app/" target="_blank" rel="nofollow noopener noreferrer">Fluid Weiqi</a>.
+
+## Also useful for playing
+
+- <a href="https://golab.gg/" target="_blank" rel="nofollow noopener noreferrer">GoLab</a> — an online board with shared controls; also listed under Tools.
+- <a href="https://zxnashx.itch.io/beginner-go-game" target="_blank" rel="nofollow noopener noreferrer">Companion Baduk</a> — a paid beginner-oriented Go game; also listed under Paid resources.

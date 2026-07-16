@@ -10,7 +10,7 @@ image:
  lqip: data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/
 ---
 
-> This page lists **most popular/top resources** only. to see full lists click the **SEE MORE** button.
+> This page lists **most popular/top/recent/active resources** only. to see full lists click the **SEE MORE** button.
 {: .prompt-tip}
 
 ## Where to Play [(See More)](/posts/where-to-play/)
@@ -23,6 +23,7 @@ image:
 6. <a href="https://questgames.net/go13" target="_blank" rel="nofollow noopener noreferrer">Goquest Web</a>, <a href="https://play.google.com/store/apps/details?id=fm.wars.goquest&hl=en" target="_blank" rel="nofollow noopener noreferrer">Android</a> & <a href="https://apps.apple.com/us/app/goquest/id834841918?ls=1" target="_blank" rel="nofollow noopener noreferrer">iOS</a>
 7. <a href="https://www.playgo.gg/?ref=user-1x5ij25" target="_blank" rel="nofollow noopener noreferrer">PlayGo.GG</a> - The new kid in the block
 8. <a href="https://baduk.club/map/" target="_blank" rel="nofollow noopener noreferrer">Baduk.Club</a> - Find Players/Places for offline games.
+9. <a href="https://github.com/SoumyaK4/WeiqiHub/releases/" target="_blank" rel="nofollow noopener noreferrer">SWHub</a> - Simple online server for regular Go and Go variants.
 
 ## DataBases [(See More)](/posts/databases/)
 
@@ -34,27 +35,25 @@ image:
 6. <a href="https://goworld-online.com/GOWContents.htm" target="_blank" rel="nofollow noopener noreferrer">Go World Online: Educational Articles</a>
 7. <a href="https://goratings.org/" target="_blank" rel="nofollow noopener noreferrer">Go Ratings</a>
 8. <a href="https://baduktube.soumyak4.in/" target="_blank">BadukTube</a> - Youtube but only for Go Game Lectures
+9. <a href="https://github.com/SoumyaK4/WeiqiHub/releases/" target="_blank" rel="nofollow noopener noreferrer">SWHub</a> - Pattern search, game records, and Joseki study database.
 
 ## News 
 
-1. <a href="https://gobase.org/" target="_blank" rel="nofollow noopener noreferrer">Go Base</a> - Game Records, News, Study Resources
-2. <a href="https://gome.at/about" target="_blank" rel="nofollow noopener noreferrer">Gome</a> - Game Stats Tools & News. Add any Association/Server ID and get Stats
+<!-- Removed from the published page per links to check; retained in source in case it returns: 1. <a href="https://gobase.org/" target="_blank" rel="nofollow noopener noreferrer">Go Base</a> - Game Records, News, Study Resources -->
+2. <a href="https://www.igomely.com/" target="_blank" rel="nofollow noopener noreferrer">iGoMely</a> - Go news, game records, videos, tournaments, and your rating dashboard.
 3. <a href="https://gotoeveryone.k2ss.info" target="_blank" rel="nofollow noopener noreferrer">Go to Everyone</a>
 4. <a href="https://www.gochess.cn/" target="_blank" rel="nofollow noopener noreferrer">GoChess: Chinese website for Go news and resources.</a>
 5. <a href="https://goworld-online.com/GOWContents.htm" target="_blank" rel="nofollow noopener noreferrer">Go World Online: Educational Articles</a>
-6. <a href="https://godb.shogidb2.com/en/" target="_blank" rel="nofollow noopener noreferrer">Go DB</a>
+<!-- Removed from the published page per links to check; retained in source in case it returns: 6. <a href="https://godb.shogidb2.com/en/" target="_blank" rel="nofollow noopener noreferrer">Go DB</a> -->
 7. <a href="https://goratings.org/" target="_blank" rel="nofollow noopener noreferrer">Go Ratings</a>
 8. <a href="https://db.u-go.net/" target="_blank" rel="nofollow noopener noreferrer">Go Players DataBase</a>
-9. <a href="https://gotoeveryone.k2ss.info/" target="_blank" rel="nofollow noopener noreferrer">Go to Everyone</a> - Latest News
-10. <a href="https://gotoeveryone.k2ss.info" target="_blank" rel="nofollow noopener noreferrer">Go to Everyone</a>
-11. <a href="https://gome.at/" target="_blank" rel="nofollow noopener noreferrer">Gome </a>- Latest Go related News
-12. <a href="https://cyberoro.com/" target="_blank" rel="nofollow noopener noreferrer">cyberoro </a>- Korean Go News & Kifu
+9. <a href="https://cyberoro.com/" target="_blank" rel="nofollow noopener noreferrer">Cyberoro </a>- Korean Go News & Kifu
 
 ## Tools [(See More)](/posts/tools/)
 
 1. <a href="https://online-go.com/" target="_blank" rel="nofollow noopener noreferrer">OGS Tools Section</a> - A bunch of tools inside OGS
 2. <a href="https://sabaki.yichuanshen.de/" target="_blank" rel="nofollow noopener noreferrer">Sabaki</a> – A SGF Editor 
-3. <a href="https://gome.at/about" target="_blank" rel="nofollow noopener noreferrer">Gome </a>- Game Stats Tools & News. Add any Association/Server ID and get Stats
+3. <a href="https://www.igomely.com/" target="_blank" rel="nofollow noopener noreferrer">iGoMely</a> - Game stats tools and news. Add an association or server ID for stats.
 4. <a href="https://gomagic.org/go-tests/" target="_blank" rel="nofollow noopener noreferrer">Rank & Skill Analysis Test</a>
 5.  <a href="https://kayago.app/" target="_blank" rel="nofollow noopener noreferrer">KayaGo</a> - Successor of Sabaki
 6. <a href="https://golab.gg/" target="_blank" rel="nofollow noopener noreferrer">Online Board with shared controls</a>
@@ -62,11 +61,12 @@ image:
 8. <a href="https://howdeepisyourgo.org/" target="_blank" rel="nofollow noopener noreferrer">How deep is your go.</a>
 9. <a href="https://github.com/SoumyaK4/OGS-Tampermonkey" target="_blank" rel="nofollow noopener noreferrer">Userscript to personalise OGS Board pages</a>
 10. <a href="https://random-go.antontobi.com/#" target="_blank" rel="nofollow noopener noreferrer">Random Position Generator</a> 
+11. <a href="https://github.com/SoumyaK4/WeiqiHub/releases/" target="_blank" rel="nofollow noopener noreferrer">SWHub</a> - Pattern search, AI analysis, local play, and SGF study tools.
 
 ## Tsumegos [(See More)](/posts/puzzles/)
 
 1. <a href="https://gomagic.org/go-problems/" target="_blank" rel="nofollow noopener noreferrer">GoMagic Skill Tree</a>
-2. WeiqiHub - <a href="https://walruswq.com/WeiqiHub" target="_blank" rel="nofollow noopener noreferrer">Mac/Windows/Linux & iOS/Android</a> - Offline Tsumegos from 101Weiqi
+2. <a href="https://github.com/SoumyaK4/WeiqiHub/releases/" target="_blank" rel="nofollow noopener noreferrer">SWHub</a> - Offline tsumego, topic-based practice collections, and tsumego battles.
 3. <a href="https://tsumegodragon.com/home" target="_blank" rel="nofollow noopener noreferrer">Tsumego Dragon by Clossius</a>
 4. <a href="https://goproblems.com/" target="_blank" rel="nofollow noopener noreferrer">GO Problems</a>
 5. <a href="https://realgoproblems.com/" target="_blank" rel="nofollow noopener noreferrer">Real GO Problems</a>
@@ -89,6 +89,7 @@ image:
 6. <a href="https://discord.gg/muYmybzYce" target="_blank" rel="nofollow noopener noreferrer">Awesome Baduk</a>
 7. <a href="https://discord.gg/89Kf6EM2sS" target="_blank" rel="nofollow noopener noreferrer">BenKyo Baduk HQ</a>
 8. <a href="https://discord.gg/u7uVF7UV8j" target="_blank" rel="nofollow noopener noreferrer">Lets Go New Year Festival</a>
+9. <a href="https://lifein19x19.com/" target="_blank" rel="nofollow noopener noreferrer">Life in 19x19</a> - Go community forum.
 
 ## AI [(See More)](/posts/ai/)
 
@@ -99,6 +100,7 @@ image:
 5. <a href="https://play.google.com/store/apps/details?id=cn.ezandroid.aq.preview" target="_blank" rel="nofollow noopener noreferrer">AhQ Go: AI Analysis for Android</a>
 6. <a href="https://play.google.com/store/apps/details?id=net.kir.baduk_ai" target="_blank" rel="nofollow noopener noreferrer">Baduk AI Android</a>
 7. <a href="https://pazoff.itch.io/go" target="_blank" rel="nofollow noopener noreferrer">Kata Tutor in Browser</a> - Similar to Katrain
+8. <a href="https://github.com/SoumyaK4/WeiqiHub/releases/" target="_blank" rel="nofollow noopener noreferrer">SWHub</a> - AI analysis, local play, and SGF review.
 
 ## Video Channels [(See More)](/posts/video-lectures/)
 
