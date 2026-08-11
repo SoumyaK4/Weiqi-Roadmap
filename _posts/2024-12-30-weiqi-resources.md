@@ -60,7 +60,7 @@ image:
 
 - <a href="https://gomagic.org/go-problems/" target="_blank" rel="nofollow noopener noreferrer">GoMagic Skill Tree</a>
 - <a href="https://github.com/SoumyaK4/WeiqiHub/releases/" target="_blank" rel="nofollow noopener noreferrer">SWHub</a> - Offline tsumego, topic-based practice collections, and tsumego battles.
-- <a href="https://tsumegodragon.com/home" target="_blank" rel="nofollow noopener noreferrer">Tsumego Dragon by Clossius</a>
+- <a href="https://tsumegodragon.com/membership?code=SK4" target="_blank" rel="nofollow noopener noreferrer">Tsumego Dragon by Clossius.</a> Use code SK4 for 1 month of premium.
 - <a href="https://goproblems.com/" target="_blank" rel="nofollow noopener noreferrer">GO Problems</a>
 - <a href="https://mygowiki.tiddlyspot.com/" target="_blank" rel="nofollow noopener noreferrer">My Go Wiki</a>
 - <a href="https://blacktoplay.com" target="_blank" rel="nofollow noopener noreferrer">Black to Play</a>
