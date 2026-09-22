@@ -117,7 +117,7 @@ image:
 - <a href="https://www.facebook.com/OferZivonyFaces" target="_blank" rel="nofollow noopener noreferrer">Ofer Zivony</a>
 - <a href="https://www.instagram.com/sho_ishinoshita/" target="_blank" rel="nofollow noopener noreferrer">Sho Ishinoshita</a>
 
-## Books
+## Books [(See More)](/posts/books/)
 
 - <a href="https://improve.tenuki.net/" target="_blank" rel="nofollow noopener noreferrer">Improve at Go</a>
 - <a href="https://www.gobook.eu/" target="_blank" rel="nofollow noopener noreferrer">Multilingual Go Book Project</a>
@@ -126,7 +126,6 @@ image:
 - <a href="https://dfan.org/blog/posts/" target="_blank" rel="nofollow noopener noreferrer">dfan's Go Blog/Guide</a>
 - <a href="https://www.kango9school.com/" target="_blank" rel="nofollow noopener noreferrer">25 Essential Positions Part 1 & 2</a> by - <a href="https://www.kango9school.com/" target="_blank" rel="nofollow noopener noreferrer">George Gigoi 7D</a>
 - <a href="https://pubhtml5.com/urwkg/dzzr/" target="_blank" rel="nofollow noopener noreferrer">3 Fundamentals and 5 Rules - The Game of Go Through the Eyes of a Bot</a>
-- A dedicated Go Books page is being worked on :3
 
 ## Paid(& Freemium) Stuff [(See More)](/posts/paid-stuff/)
 
